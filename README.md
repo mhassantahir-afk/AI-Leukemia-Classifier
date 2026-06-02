@@ -392,20 +392,16 @@ Key lessons included:
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
 **Muhammad Hassan Tahir**
 
+**Salman Abid**
+
+**Ahmad Bilal**
+
 BS Computer Science
 
-FAST National University of Computer and Emerging Sciences
+Comsats University Lahore
 
-### Areas of Interest
-
-* Artificial Intelligence
-* Medical Imaging
-* Deep Learning
-* Computer Vision
-* Healthcare AI
-
-If you found this project interesting, feel free to ⭐ the repository.
+### If you found this project interesting, feel free to ⭐ the repository.
