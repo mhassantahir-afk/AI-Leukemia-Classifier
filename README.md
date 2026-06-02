@@ -12,7 +12,7 @@ LeukaScan was developed as part of a medical imaging and computer vision researc
 
 ## Sample Blood Cell Images
 
-![Sample Cells](images/sample_cells.png)
+![Sample Cells](images/sample_images.png)
 
 Examples of training images from the merged dataset pipeline. Cancerous lymphoblasts (ALL) are learned alongside multiple healthy blood-cell types.
 
@@ -20,7 +20,7 @@ Examples of training images from the merged dataset pipeline. Cancerous lymphobl
 
 ## Training Curves
 
-![Training Curves](images/training_curves.png)
+![Training Curves](images/trainingcurves.png)
 
 Training and validation metrics across epochs showing stable convergence and minimal overfitting.
 
@@ -28,17 +28,9 @@ Training and validation metrics across epochs showing stable convergence and min
 
 ## Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](images/confusionmatrix.png)
 
 Confusion matrix generated on the held-out test set.
-
----
-
-## Model Architecture
-
-![Architecture](images/model_architecture.png)
-
-EfficientNetB3-based transfer learning architecture with a regularized classification head.
 
 ---
 
